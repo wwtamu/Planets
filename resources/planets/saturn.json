@@ -1,0 +1,14 @@
+﻿{
+    "name": "Saturn",
+    "map": "images/planets/saturnmap.png",
+    "bumpMap": "",
+    "diameter": 12.0536,
+    "atmosphere": 0.0075,
+    "widthSegments": 32,
+    "heightSegments": 32,
+    "mass": 568,
+	"pow": 24,
+    "x": 14335,
+    "y": 0,
+    "z": 0
+}

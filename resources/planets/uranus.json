@@ -1,0 +1,14 @@
+﻿{
+    "name": "Uranus",
+    "map": "images/planets/uranusmap.png",
+    "bumpMap": "",
+    "diameter": 5.1118,
+    "atmosphere": 0.0075,
+    "widthSegments": 32,
+    "heightSegments": 32,
+    "mass": 86.8,
+	"pow": 24,
+    "x": 28725,
+    "y": 0,
+    "z": 0
+}

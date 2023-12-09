@@ -1,0 +1,14 @@
+﻿{
+	"name": "Jupiter",
+	"map": "images/planets/planets/jupitermap.png",
+	"bumpMap": "",
+	"diameter": 14.2984,
+	"atmosphere": 0.0075,
+	"widthSegments": 32,
+	"heightSegments": 32,
+	"mass": 1898,
+	"pow": 24,
+	"x": 7786,
+	"y": 0,
+	"z": 0
+}

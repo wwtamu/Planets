@@ -1,0 +1,14 @@
+﻿{
+	"name": "Mercury",
+	"map": "images/planets/mercurymap.png",
+	"bumpMap": "images/planets/mercurybump.png",
+	"diameter": 0.4879,
+	"atmosphere": 0.0075,
+	"widthSegments": 32,
+	"heightSegments": 32,
+	"mass": 0.330,
+	"pow": 24,
+	"x": 579,
+	"y": 0,
+	"z": 0
+}

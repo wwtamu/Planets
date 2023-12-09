@@ -1,0 +1,14 @@
+﻿{
+    "name": "Neptune",
+    "map": "images/planets/neptunemap.png",
+    "bumpMap": "",
+    "diameter": 4.9528,
+    "atmosphere": 0.0075,
+    "widthSegments": 32,
+    "heightSegments": 32,
+    "mass": 102,
+	"pow": 24,
+    "x": 44951,
+    "y": 0,
+    "z": 0
+}

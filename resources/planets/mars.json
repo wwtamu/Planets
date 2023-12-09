@@ -1,0 +1,14 @@
+﻿{
+    "name": "Mars",
+    "map": "images/planets/marsmap1k.png",
+    "bumpMap": "images/planets/marsbump1k.png",
+    "diameter": 0.6792,
+    "atmosphere": 0.0075,
+    "widthSegments": 32,
+    "heightSegments": 32,
+    "mass": 0.642,
+	"pow": 24,
+    "x": 2279,
+    "y": 0,
+    "z": 0
+}
