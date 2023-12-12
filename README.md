@@ -2,7 +2,7 @@
 Node Angular 2 WebGl w/Bootstrap
 
 # Dependencies
-see package.json nad bower.json
+see package.json
 
 # Startup
 ```bash
